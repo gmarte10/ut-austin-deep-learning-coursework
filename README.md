@@ -38,11 +38,3 @@ git clone https://github.com/gmarte10/ut-austin-deep-learning.git
 1. **Educational Use Only**: The content in this repository is shared strictly for educational purposes. Please do not use it to violate any academic integrity policies.
 2. **Incomplete Components**: As mentioned, certain elements (e.g., grading scripts) have been removed.
 
-## Contact
-
-If you have any questions or feedback, feel free to reach out via:
-- **Email**: [giancarlosmarte@example.com](mailto:giancarlosmarte@example.com)
-- **GitHub Issues**: Open an issue in this repository.
-
----
-
